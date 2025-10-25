@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+                      http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+  <!-- Homepage -->
+  <url>
+    <loc>https://monroe-nc-tree-trimming.onrender.com/</loc>
+    <lastmod>2025-10-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Service Pages -->
+  <url><loc>https://monroe-nc-tree-trimming.onrender.com/services/tree-removal-monroe.html</loc><lastmod>2025-10-25</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://monroe-nc-tree-trimming.onrender.com/services/tree-trimming-monroe.html</loc><lastmod>2025-10-25</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://monroe-nc-tree-trimming.onrender.com/services/stump-grinding.html</loc><lastmod>2025-10-25</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://monroe-nc-tree-trimming.onrender.com/services/tree-trimming-for-storm-prevention.html</loc><lastmod>2025-10-25</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://monroe-nc-tree-trimming.onrender.com/services/tree-cabling-and-bracing.html</loc><lastmod>2025-10-25</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://monroe-nc-tree-trimming.onrender.com/services/tree-disease-diagnosis.html</loc><lastmod>2025-10-25</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://monroe-nc-tree-trimming.onrender.com/services/tree-maintenance-plans.html</loc><lastmod>2025-10-25</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+
+  <!-- Location Pages -->
+  <url><loc>https://monroe-nc-tree-trimming.onrender.com/areas-we-serve/monroe-28110.html</loc><lastmod>2025-10-25</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://monroe-nc-tree-trimming.onrender.com/areas-we-serve/indian-trail-28079.html</loc><lastmod>2025-10-25</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://monroe-nc-tree-trimming.onrender.com/areas-we-serve/stallings-28104.html</loc><lastmod>2025-10-25</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://monroe-nc-tree-trimming.onrender.com/areas-we-serve/wingate-28174.html</loc><lastmod>2025-10-25</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://monroe-nc-tree-trimming.onrender.com/areas-we-serve/waxhaw-28173.html</loc><lastmod>2025-10-25</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://monroe-nc-tree-trimming.onrender.com/areas-we-serve/weddington-28104.html</loc><lastmod>2025-10-25</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://monroe-nc-tree-trimming.onrender.com/areas-we-serve/marshville-28103.html</loc><lastmod>2025-10-25</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://monroe-nc-tree-trimming.onrender.com/areas-we-serve/fairview-28110.html</loc><lastmod>2025-10-25</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://monroe-nc-tree-trimming.onrender.com/areas-we-serve/hemby-bridge-28079.html</loc><lastmod>2025-10-25</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://monroe-nc-tree-trimming.onrender.com/areas-we-serve/matthews-28105.html</loc><lastmod>2025-10-25</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://monroe-nc-tree-trimming.onrender.com/areas-we-serve/mineral-springs-28108.html</loc><lastmod>2025-10-25</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://monroe-nc-tree-trimming.onrender.com/areas-we-serve/lake-park-28079.html</loc><lastmod>2025-10-25</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+
+  <!-- Blog Pages -->
+  <url><loc>https://monroe-nc-tree-trimming.onrender.com/blog/</loc><lastmod>2025-10-25</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://monroe-nc-tree-trimming.onrender.com/blog/protect-your-home-tree-trimming-for-storm-prevention-in-monroe.html</loc><lastmod>2025-10-25</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://monroe-nc-tree-trimming.onrender.com/blog/emergency-tree-removal-monroe-quick-response-services-in-monroe.html</loc><lastmod>2025-10-25</last
