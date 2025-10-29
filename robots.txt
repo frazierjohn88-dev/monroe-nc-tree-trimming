@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Performance optimization
-Sitemap: https://monroe-nc-tree-trimming.onrender.com/sitemap.xml
+Sitemap: https://Monroe-NC-Tree-Trimming/sitemap.xml
 
 # Block common bot traps
 Disallow: /cgi-bin/
